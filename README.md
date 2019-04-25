@@ -87,7 +87,7 @@ Preview | Description
 
 ## MOOC's
 
-* [Springboard Data Science MOOC](https://courses.springboard.com/p/intro-to-python-for-data-science?utm_source=github&utm_campaign=ds_mooc&utm_content=readme)
+* [Springboard Data Science MOOC](https://courses.springboard.com/p/intro-to-python-course-data-science?utm_source=github&utm_campaign=ds_mooc&utm_content=readme)
 * [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 * [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
